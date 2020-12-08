@@ -1,0 +1,38 @@
+.head{
+	font-size: 60px;
+	margin: auto;
+	color: cornflowerblue;
+	text-align: center;
+	background-color:#151561;
+	height: 15vh;
+	padding-top: 15px;
+	width: auto;
+}
+#btn,#del,#edit{
+	border: 2px solid black;
+	color: white;
+	font-size: 20px;
+	background-color: cornflowerblue;
+	border-radius: 10px;
+	margin: 10px 5px 0 5px;
+}
+#todo{
+	font-size: 30px;
+	color: cornflowerblue;
+	padding-right: 20px;
+	
+}
+#task{
+	font-size: 20px;
+
+}
+.cont{
+	margin-left: 10%;
+	margin-top: 5%;
+
+}
+#in,#text1{
+	height: 4vh;
+	border-radius: 10px;
+	border :2px solid #151561 ;
+}
